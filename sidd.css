@@ -54,6 +54,3 @@ div button:hover{
 div button:focus{
     outline: 2px soild #333;
 }
-.ss{
-    text-align: right;
-}
