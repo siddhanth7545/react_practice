@@ -1,0 +1,17 @@
+ul{
+    display: flex;
+    list-style-type: none;
+}
+li{
+    padding: 70px;
+    position: relative;bottom: 80px;left: 800px;
+    justify-content: space-between;
+}
+.navBlock{
+    border: 2px solid yellow;
+    height: 75px;
+}
+.menuBlock{
+    justify-items: center;
+    text-decoration: none;
+}
