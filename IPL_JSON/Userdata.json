@@ -1,0 +1,131 @@
+[
+    {
+        "TeamName" : "RCB",
+        "TeamHometown" : "Bangalore",
+        "TeamCaptain" : "Virat kohli",
+        "TeamMembers" : ["Maxwell","Siraj","Harshad patel"],
+        "TeamLogo" : "https://i.pinimg.com/originals/7c/d7/eb/7cd7ebcfa9f8d976b74535181907fe79.png"
+    },
+    {
+        "TeamName" : "SRH",
+        "TeamHometown" : "Hyderabad",
+        "TeamCaptain" : "Aiden Markram",
+        "TeamMembers" : ["Rahul tripati","Malik","Sundar"],
+        "TeamLogo" : "https://upload.wikimedia.org/wikipedia/en/e/eb/Sunrisers_Hyderabad.png"
+    },
+    {
+        "TeamName" : "MI",
+        "TeamHometown" : "Mumbai",
+        "TeamCaptain" : "Rohit Sharma",
+        "TeamMembers" : ["Suryakumar","Tilak","David"],
+        "TeamLogo" : "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Mumbai_Indians_Logo.svg/1200px-Mumbai_Indians_Logo.svg.png "
+    },
+    {
+        "TeamName" : "Delhi Capitals",
+        "TeamHometown" : "Delhi",
+        "TeamCaptain" : "Rishabh pant",
+        "TeamMembers" : ["David Warner","Prithvi","Ripal Patel"],
+        "TeamLogo" : "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Delhi_Capitals_Logo.svg/1200px-Delhi_Capitals_Logo.svg.png"
+    },
+    {
+        "TeamName" : "CSK",
+        "TeamHometown" : "Chennai",
+        "TeamCaptain" : "M.S.Dhoni",
+        "TeamMembers" : ["Jadeja","Mitchell","Moeen Ali"],
+        "TeamLogo" : "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Chennai_Super_Kings_Logo.svg/800px-Chennai_Super_Kings_Logo.svg.png"
+    },
+    {
+        "TeamName" : "KKR",
+        "TeamHometown" : "Kolkatta Knight riders",
+        "TeamCaptain" : "Shreyas Iyer",
+        "TeamMembers" : ["Rinku","David","Russell"],
+        "TeamLogo" : "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Kolkata_Knight_Riders_Logo.svg/1200px-Kolkata_Knight_Riders_Logo.svg.png"
+    },
+    {
+        "TeamName" : "Gujarat Titans",
+        "TeamHometown" : "Gujarat",
+        "TeamCaptain" : "Hardik Pandya",
+        "TeamMembers" : ["Abhinav","David Miller","Shubman"],
+        "TeamLogo" : "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Gujarat_Titans_Logo.svg/1200px-Gujarat_Titans_Logo.svg.png"
+    },
+    {
+        "TeamName" : "Rajasthan Royals",
+        "TeamHometown" : "Rajasthan",
+        "TeamCaptain" : "Sanju Samson",
+        "TeamMembers" : ["Paddikal","Buttler","Ashwin"],
+        "TeamLogo" : "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Rajasthan_Royals_Logo.svg/1200px-Rajasthan_Royals_Logo.svg.png"
+    },
+    {
+        "TeamName" : "Lucknow Super gaints",
+        "TeamHometown" : "Lucknow",
+        "TeamCaptain" : "K.l.Rahul",
+        "TeamMembers" : ["Deepak","Krunal","Mayers"],
+        "TeamLogo" : "https://upload.wikimedia.org/wikipedia/en/e/e2/Lucknow_Super_Giants_logo.png"
+    },
+    {
+        "TeamName" : "Punjab Kings",
+        "TeamHometown" : "Rajasthan",
+        "TeamCaptain" : "Shikhar Dhawan",
+        "TeamMembers" : ["Jitesh","Bairstow","Singh"],
+        "TeamLogo" : "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Punjab_Kings_Logo.svg/800px-Punjab_Kings_Logo.svg.png"
+    },
+    {
+        "TeamName" : "Bengaluru Bulls",
+        "TeamHometown" : "Bengaluru",
+        "TeamCaptain" : "Vikas kandola",
+        "TeamMembers" : ["More G","lal Mohar","Neeraj"],
+        "TeamLogo" : "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/sports-ipl/bengaluru-bulls-logo.png"
+    },
+    {
+        "TeamName" : "Bengal Warriors",
+        "TeamHometown" : "Bengal",
+        "TeamCaptain" : "Mahindar Singh",
+        "TeamMembers" : ["Shrikanth","Akash","Gaikar"],
+        "TeamLogo" : "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/sports-ipl/bengal-warriors-logo.png"
+    },
+    {
+        "TeamName" : "Dabang Delhi",
+        "TeamHometown" : "Delhi",
+        "TeamCaptain" : "Mahindar Singh",
+        "TeamMembers" : ["Naveen kumar","Manjet","Ashu malik"],
+        "TeamLogo" : "https://upload.wikimedia.org/wikipedia/en/8/82/Dabang_Delhi_logo.png"
+    },
+    {
+        "TeamName" : "Gujurat giants",
+        "TeamHometown" : "Gujarat",
+        "TeamCaptain" : "Chandran ranjith",
+        "TeamMembers" : ["Prasanth kumar","Rajput","Rohit"],
+        "TeamLogo" : "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/sports-ipl/gujarat-giants-logo.png"
+    },
+    {
+        "TeamName" : "Hariyana Steelers",
+        "TeamHometown" : "Hariyana",
+        "TeamCaptain" : "Prapanjan",
+        "TeamMembers" : ["Rakesh narwal","Manjeet","Vinay"],
+        "TeamLogo" : "https://s3images.zee5.com/wp-content/uploads/2021/11/vnjfxhgffjhgk20211102120354.jpg"
+    },
+    {
+        "TeamName" : "Patna pirates",
+        "TeamHometown" : "Patna",
+        "TeamCaptain" : "Sachin",
+        "TeamMembers" : ["Monu","Anand ","Vishwas"],
+        "TeamLogo" : "https://upload.wikimedia.org/wikipedia/en/8/80/Patna_Pirates_logo.png"
+    },
+    {
+        "TeamName" : "Puneri paltan",
+        "TeamHometown" : "Pune",
+        "TeamCaptain" : "Pankaj Mohite",
+        "TeamMembers" : ["Mohit","Shinde","Jadhav"],
+        "TeamLogo" : "https://i0.wp.com/logotaglines.com/wp-content/uploads/2017/07/Puneri-Paltan-Logo-Tagline-Slogan-Motto-Owner.jpg?fit=640%2C640&ssl=1"
+    },
+    {
+        "TeamName" : "Jaipur pink panthars",
+        "TeamHometown" : "Jaipur",
+        "TeamCaptain" : "Rahul Chowdri",
+        "TeamMembers" : ["Rajput","Deshwal","Ajith kumar"],
+        "TeamLogo" : "https://upload.wikimedia.org/wikipedia/en/0/0c/Jaipur_Pink_panthers_logo.jpg"
+    }
+    
+
+
+]
