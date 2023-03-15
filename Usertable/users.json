@@ -1,0 +1,47 @@
+[
+    {
+        "name" : "Siddhanth",
+        "age" : 24,
+        "gender" : "male",
+        "occupation" : "Civil Enginner",
+        "salary" : "35000",
+        "photo" : "https://olous.s3.ap-south-1.amazonaws.com/media/images/1624637914195.jpg",
+        "phone" : [8660247662,9880609496]
+    },
+    {
+        "name" : "Poornima",
+        "age" : 24,
+        "gender" : "female",
+        "occupation" : "Civil Enginner",
+        "salary" : "30000",
+        "photo" : "https://images.puma.net/images/fn/~regional~PNA~others~KOP~Logos~PUMA_Logo_Cat_black.png",
+        "phone" : [9019656555,8660247662]
+    },
+    {
+        "name" : "Vijay Desi",
+        "age" : 24,
+        "gender" : "male",
+        "occupation" : "Pujari",
+        "salary" : "45000",
+        "photo" : "https://factsanddetails.com/media/2/20120502-BrahminShrimat_Shivananda_Saraswati_Swami_Maharaj.jpg",
+        "phone" : [9865321245,8957496142]
+    },
+    {
+        "name" : "Sachin Mittal",
+        "age" : 24,
+        "gender" : "male",
+        "occupation" : "Govt",
+        "salary" : "25000",
+        "photo" : "https://media.licdn.com/dms/image/D4D35AQFEuMlnAo_42w/profile-framedphoto-shrink_400_400/0/1656743800871?e=1679461200&v=beta&t=HsvSXHt2La6rVtF1jGJYoK0P1nvtBWSHnUr_-UUCskI",
+        "phone" : [9845789856,8745123256]
+    },
+    {
+        "name" : "Vinayak",
+        "age" : 24,
+        "gender" : "male",
+        "occupation" : "Rider",
+        "salary" : "40000",
+        "photo" : "https://kawasaki-india.com/wp-content/uploads/2021/03/n300-lime-green-type-3.png",
+        "phone" : [8956232145,8745691236]
+    }
+]
