@@ -1,0 +1,23 @@
+.but{
+    text-align: center;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    border: red solid 5px ;
+    border-radius: 20px;
+    padding: 15px;
+    margin: 10px 600px;
+    width: 500px;
+}
+.ton{
+    margin: 0 4px;
+    padding: 6px 0;
+    width: 150px;
+    border: 1px solid #999;
+    background-color: #f7f7f7;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+div button:hover{
+    background-color: rgb(209, 16, 243);
+}
