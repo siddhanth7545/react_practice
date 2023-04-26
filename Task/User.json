@@ -1,0 +1,9 @@
+[
+    {
+        "TeamName" : "RCB",
+        "TeamHometown" : "Bangalore",
+        "TeamCaptain" : "Virat kohli",
+        "TeamMembers" : ["Maxwell","Siraj","Harshad patel"],
+        "TeamLogo" : "https://i.pinimg.com/originals/7c/d7/eb/7cd7ebcfa9f8d976b74535181907fe79.png"
+    }
+]

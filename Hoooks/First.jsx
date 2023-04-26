@@ -8,7 +8,7 @@ const First = () => {
   let handleusername = ()=>{
     setUsename("Puma")
   }
-  
+
   let handlephone =()=>{
     setPhone("9019656555")
   }
@@ -17,7 +17,7 @@ const First = () => {
     <div>
         <h1>{username}</h1>
         <h1>{phone}</h1>
-        <button onClick={handleusername}>Change name</button><br /><br />
+        <button onClick={handleusername} >Change name</button><br /><br />
         <button onClick={handlephone}>Change Ph.No</button>
     </div>
   )
